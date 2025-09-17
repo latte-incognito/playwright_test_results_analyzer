@@ -1,0 +1,15 @@
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/compiled/
+/deps/
+Manifest.toml
+
+# Env
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
